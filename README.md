@@ -35,4 +35,4 @@ To use Frogdisplays, players must:
 **Warning**: the mod is in the development phase. There may be instability, FPS drops.
 
 ## Known issues
-- The displays are not shown through ReplayMode. This problem is known and will never be fixed
+- The displays are not shown through ReplayMod. This problem is known and will never be fixed
