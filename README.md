@@ -11,7 +11,7 @@ This mod allows players to create in-game screens capable of showcasing multimed
 ## Key Features
 
 - Supports YouTube video playback without ads
-- Allows input of custom URLs
+- Allows input of custom URLs (in future)
 - Adjustable resolution settings
 - Configurable screen sizes rangings
 - Multiplayer synchronization
